@@ -1,2 +1,4 @@
 # Internmo-IndiaKart-ECommerce-Analytics-Project
 IndiaKart E-Commerce Analytics Project is an end-to-end data analytics project where students analyze e-commerce business data to uncover sales trends, customer behavior, product performance, and operational insights. The project involves data cleaning, exploratory data analysis (EDA), KPI calculations, SQL analysis and Power BI dashboard.
+As a development to generate actionable business insights and support data-driven decision-making.
+As Per Instructions I cleaned and prepared the e-commerce data, performed EDA to identify sales and customer trends, and used SQL to calculate key business KPIs. I then developed an interactive Power BI dashboard to visualize product, customer, sales, and operational performance and provide actionable insights for data-driven decision-making.
